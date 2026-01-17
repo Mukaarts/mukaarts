@@ -1,14 +1,14 @@
-# Hi, ich bin Michael Ferreira! 👋
+# Hi there, I'm Michael Ferreira! 👋
 
-Ich bin ein vielseitiger **Entwickler und Fotograf** (bei Unique.mf). Ich verbinde technische Logik mit kreativem Design.
+I am a versatile **Full Stack Developer and Photographer** based in Luxembourg. I combine technical logic with creative design to build unique digital solutions.
 
-### 🚀 Über mich
+### 🚀 About Me
 
-- 💼 Berufserfahrung als **Fotograf & Webdesigner**
-- 🛠 Spezialisiert auf **PHP & Symfony** Entwicklung
-- 🎨 Profi in der **Adobe Creative Suite** & UI Design
-- 🏆 **Zertifizierte Kenntnisse** in HTML, CSS, JS und Git (LinkedIn Assessments)
-- 📫 Kontakt: [LinkedIn](https://www.linkedin.com/in/michael-ferreira-2b53449a/)
+- 💼 **Experience:** Professional Photographer & Web Designer at **Unique.mf** and **Project Reverse**.
+- 🛠 **Core Tech:** Specialized in **PHP & Symfony** development and **Odoo** integration.
+- 🎨 **Design:** Expert in the **Adobe Creative Suite** (Photoshop, Lightroom, InDesign).
+- 🏆 **Certifications:** Certified skills in HTML, CSS, JavaScript, and Git (LinkedIn Assessments).
+- 📫 **Contact:** Reach me via [LinkedIn](https://www.linkedin.com/in/michael-ferreira-2b53449a/)
 
 ---
 
@@ -18,6 +18,7 @@ Ich bin ein vielseitiger **Entwickler und Fotograf** (bei Unique.mf). Ich verbin
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +30,7 @@ Ich bin ein vielseitiger **Entwickler und Fotograf** (bei Unique.mf). Ich verbin
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Design & Kreativ:**
+**Design & Creativity:**
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black)
 ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
@@ -37,13 +38,16 @@ Ich bin ein vielseitiger **Entwickler und Fotograf** (bei Unique.mf). Ich verbin
 
 ---
 
-### 📊 Meine GitHub Statistiken
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukaarts&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Michael's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaarts&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukaarts&show_icons=true&theme=radical" alt="Michael's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukaarts&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🔥 Activity Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukaarts&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukaarts&theme=radical)
+
+---
+⭐️ *Thanks for visiting my profile!*
