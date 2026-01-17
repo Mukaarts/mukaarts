@@ -47,7 +47,7 @@ I am a versatile **Full Stack Developer and Photographer** based in Luxembourg. 
 
 ### 🔥 Activity Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mukaarts&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mukaarts&theme=radical)
 
 ---
 ⭐️ *Thanks for visiting my profile!*
